@@ -1,0 +1,2 @@
+def script()
+script sh "/opt/deploy.sh"
